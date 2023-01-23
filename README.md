@@ -1,1 +1,1 @@
-Wiki
+# LifelineMC Wiki
