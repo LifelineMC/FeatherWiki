@@ -6,5 +6,5 @@
 
 Примеры локализации:
 
-![English](MCLifeline/wiki/languages/en_us.json)
-![Russian](MCLifeline/wiki/languages/ru_ru.json)
+![English](languages/en_us.json)
+![Russian](languages/ru_ru.json)
