@@ -8,7 +8,11 @@
 > [🌎 Генерация](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/generation.md)
 > [💧 Жажда](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/thirst.md)
 > [📂 Мелкие механики](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tiny_mechanics.md)
+
 [❤️ RP-составляющие](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/index.md)
+
 [👑 Администрация](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/admins.md)
+
 [💬 Игровой чат](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/chat.md)
+
 [📙 Правила](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rules.md)
