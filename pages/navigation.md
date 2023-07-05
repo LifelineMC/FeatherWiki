@@ -4,6 +4,8 @@
 
 [🎮 Геймплей](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay)
 
+> [📝 Туториал](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
+>
 > [💧 Жажда](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/thirst.md)
 >
 > [🌎 Генерация](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/generation.md)
