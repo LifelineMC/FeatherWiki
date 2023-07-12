@@ -2,7 +2,7 @@
 
 [❤️ RP-составляющие](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/index.md)
 
-[🎮 Геймплей](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay)
+[🎮 Геймплей](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/index.md)
 
 > [📝 Туториал](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
 >
