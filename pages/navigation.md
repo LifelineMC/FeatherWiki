@@ -46,4 +46,4 @@
 
 [📜 История проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/history.md)
 
-[💻 API проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/history.md)
+[💻 API проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/api/index.md)
