@@ -18,8 +18,6 @@
 
 [🎮 Геймплей](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/index.md)
 
-> [📝 Туториал](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
->
 > [💧 Жажда](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/thirst.md)
 >
 > [🌎 Генерация](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/generation.md)
@@ -37,6 +35,10 @@
 > [✨ Зачарования](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/enchantments.md)
 > 
 > [📂 Мелкие механики](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tiny_mechanics.md)
+>
+> [📝 Туториал](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
+>
+> [📝 Туториал](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
 
 [💬 Игровой чат](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/chat.md)
 
