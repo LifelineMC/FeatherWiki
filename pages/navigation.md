@@ -33,10 +33,12 @@
 > [🧃 Напитки](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/drinks.md)
 > 
 > [✨ Зачарования](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/enchantments.md)
-> 
+>
 > [📂 Мелкие механики](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tiny_mechanics.md)
 >
-> [📝 Туториал](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
+> [♿ Микро-механики](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tiny_mechanics.md)
+>
+> [🔱 Модификации для игры](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/mods.md)
 >
 > [📝 Туториал](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
 
@@ -48,4 +50,4 @@
 
 [📜 История проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/history.md)
 
-[💻 API проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/api/index.md)
+[💻 LifelineAPI](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/api/index.md)
