@@ -20,7 +20,7 @@
 
 > [💧 Жажда](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/thirst.md)
 >
-> [🌎 Генерация](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/generation.md)
+> [🌎 Генерация и структуры](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/generation.md)
 >
 > [⚒ Улучшения предметов](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/armor_quality_and_sharpening_state.md)
 > 
