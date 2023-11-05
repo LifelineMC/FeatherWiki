@@ -2,7 +2,7 @@
 
 [🎭 RP-составляющая](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/index.md)
 
-> [🎭 Устройство сервера](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/core.md)
+> [🎭 Должности игроков](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/roles.md)
 >
 > [🔔 Рейтинг](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/rating.md)
 >
@@ -46,6 +46,6 @@
 
 [⚡ Бустер](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/booster.md)
 
-[👑 Администрация](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/admins.md)
+[👑 Персонал проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/admins.md)
 
-[💻 LifelineAPI](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/api/index.md)
+[💻 API проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/api/index.md)
