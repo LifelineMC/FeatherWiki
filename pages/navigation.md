@@ -48,6 +48,4 @@
 
 [👑 Администрация](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/admins.md)
 
-[📜 История проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/history.md)
-
 [💻 LifelineAPI](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/api/index.md)
