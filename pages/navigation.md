@@ -1,7 +1,11 @@
-[📙 Правила](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rules.md)
+[📙 Правила](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/non_rp_rules.md)
 
 [🎭 RP-составляющая](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/index.md)
 
+> [🎓 Основы РП](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/rules.md)
+>
+> [📙 РП-правила](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/rules.md)
+>
 > [🎭 Должности игроков](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/roles.md)
 >
 > [🔔 Рейтинг](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/rating.md)
@@ -40,7 +44,7 @@
 >
 > [🔱 Модификации для игры](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/mods.md)
 >
-> [📝 Туториал](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
+> [📝 Путеводитель по геймплею](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tutorial.md)
 
 [💬 Игровой чат](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/chat.md)
 
