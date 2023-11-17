@@ -38,7 +38,7 @@
 > 
 > [✨ Зачарования](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/enchantments.md)
 >
-> [📂 Мелкие механики](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tiny_mechanics.md)
+> [📂 Мелкие механики](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/small_mechanics.md)
 >
 > [♿ Микро-механики](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/tiny_mechanics.md)
 >
