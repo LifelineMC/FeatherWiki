@@ -1,4 +1,6 @@
 [📙 Правила](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/non_rp_rules.md)
+>
+> [❌ Разрешенное и запрещенное ПО](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/cheats.md)
 
 [🎭 RP-составляющая](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/rp/index.md)
 
