@@ -1,8 +1,9 @@
 # Разрешенное и запрещенное ПО
 
+Если вы не уверены в том, можно ли использовать какой-либо мод, не указанный в списке, то напишите в тикеты, мы вам подскажем, и если посчитаем мод читерным, то добавим в список.
+
 ## Разрешенные модификации
 - Advancements Enlarger
-- Autofish
 - Badlion Client
 - Better Dropped Items
 - Better Mod Button
@@ -13,37 +14,33 @@
 - Chat Up
 - Colormatic
 - CraftPresence
-- Fabric API
+- Emotecraft
 - Held Item Info
 - Iris Shaders
-- Item Scroller
 - Just Enough Items (JEI)
 - LambDynamicLights
 - Light Level Overlay
-- Litematica без Easy Place Mode
+- Litematica (без Easy Place Mode)
 - Lithium
 - Logical Zoom
 - MiniHUD
 - ModMenu
 - ModUpdater
 - Not Enough Crashes
-- OffersHUD
 - OptiFabric
 - OptiFine
 - Phosphor
+- PlasmoVoice
 - Presence Footsteps
 - Replay Mod
 - Shulker Tooltip
 - Smooth Boot
 - Sodium
 - Stendhal
-- StepUpNext
-- Twitch Chat Bridge
-- VoxelMap
-- Xaero's Minimap
-- Xaero's World Map
+- Любые карты без отображения существ (в том числе игроков)
 
 ## Запрещенные модификации
+- Autofish
 - Авто-тотем модификации (любого вида)
 - Модификации, выполняющие действия за игрока
 - ИИ, принтер и так далее
@@ -63,10 +60,7 @@
 - Inertia
 - Inventory Plus
 - InvMove
-- Jello
 - LavaClearView
-- MultiConnect
-- NoFog (используйте Sodium Extra или OptiFine)
 - SeedCracker, а также другие моды и программы, выполняющие функции этого мода
 - Sigma
 - Trajectory Preview
