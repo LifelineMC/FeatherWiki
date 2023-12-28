@@ -1,43 +1,6 @@
-# Разрешенное и запрещенное ПО
+# Запрещенное ПО
 
 Если вы не уверены в том, можно ли использовать какой-либо мод, не указанный в списке, то напишите в тикеты, мы вам подскажем, и если посчитаем мод читерным, то добавим в список.
-
-## Разрешенные модификации
-- Advancements Enlarger
-- Badlion Client
-- Better Dropped Items
-- Better Mod Button
-- BetterF3
-- Blur (Fabric)
-- Bobby
-- Chat Heads
-- Chat Up
-- Colormatic
-- CraftPresence
-- Emotecraft
-- Held Item Info
-- Iris Shaders
-- Just Enough Items (JEI)
-- LambDynamicLights
-- Light Level Overlay
-- Litematica (без Easy Place Mode)
-- Lithium
-- Logical Zoom
-- MiniHUD
-- ModMenu
-- ModUpdater
-- Not Enough Crashes
-- OptiFabric
-- OptiFine
-- Phosphor
-- PlasmoVoice
-- Presence Footsteps
-- Replay Mod
-- Shulker Tooltip
-- Smooth Boot
-- Sodium
-- Stendhal
-- Любые карты без отображения существ (в том числе игроков)
 
 ## Запрещенные модификации
 - Autofish
@@ -61,6 +24,7 @@
 - Inventory Plus
 - InvMove
 - LavaClearView
+- Litematica (с применением Easy Place Mode)
 - SeedCracker, а также другие моды и программы, выполняющие функции этого мода
 - Sigma
 - Trajectory Preview
@@ -68,6 +32,7 @@
 - Wall-Jump
 - Wurst
 - X-ray модификации (любого вида)
+- Любые карты с отображением существ (в том числе игроков)
 
 ## Запрещенные ресурспаки
 - Чит-модификации (любого вида)
