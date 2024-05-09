@@ -54,6 +54,4 @@
 
 [👑 Персонал проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/admins.md)
 
-[💻 API проекта](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/api/index.md)
-
 [💬 Партнёрская программа](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/partner.md)
