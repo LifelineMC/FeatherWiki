@@ -28,7 +28,7 @@
 >
 > [🌎 Генерация и структуры](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/generation.md)
 >
-> [🔨 Улучшения предметов](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/armor_quality_and_sharpening_state.md)
+> [🔨 Качество брони и заточка оружия](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/armor_quality_and_sharpening_state.md)
 > 
 > [👨‍🌾 Фермерство](https://raw.githubusercontent.com/LifelineMC/LifelineWiki/main/pages/gameplay/farming.md)
 > 
